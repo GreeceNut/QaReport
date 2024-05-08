@@ -199,5 +199,6 @@ test {
 ## Просмотр отчета
 
 При правильном подключение агента ReportPortal JUnit 5 и запуска тестов, в ReportPortal появится возможность посмотреть отчеты. Для этого следует перейти на ReportPortal и обнаружить на _левой панели_ вкладку _Launches_:
-![image](https://github.com/GreeceNut/QaReport/assets/148546011/7927ae32-3978-4486-a2a0-29aa9eae656b)
-![image](https://github.com/GreeceNut/QaReport/assets/148546011/d19a4a13-3a12-4f17-b849-cdec3ef5f21b)
+![image](https://github.com/GreeceNut/QaReport/assets/148546011/15f37edd-0863-4ab5-8980-eb3fae5c6133)
+![image](https://github.com/GreeceNut/QaReport/assets/148546011/ed3900a3-35d1-4a13-9dfa-778aff43ccc1)
+
