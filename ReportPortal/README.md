@@ -1,6 +1,21 @@
-## Скриншоты отчета ReportPortal
 
 # Установка на проект ReportPortal с Docker
+## Примеры отчета ReportPortal
+
+ <details>
+ <summary> Пример 1 </summary>
+<img src=https://github.com/GreeceNut/QaReport/assets/148546011/1109242e-1005-47f8-a516-ccd0aaa9c3ce>
+</details>
+ <details>
+ <summary> Пример 2 </summary>
+<img src=https://github.com/GreeceNut/QaReport/assets/148546011/5dc461ca-7aed-4cd8-8a0a-f09f0e463282)>
+</details>
+ <details>
+ <summary> Пример 3 </summary>
+<img src=https://github.com/GreeceNut/QaReport/assets/148546011/f642fc08-869a-41a2-a0fa-2280c9acb691)>
+
+</details>
+
 
 ## Установить docker
 Сперва необходимо скачать и установить Docker. Скачать для своей системы можно вот [здесь](https://docs.docker.com/get-docker/). 
