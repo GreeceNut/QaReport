@@ -1,3 +1,9 @@
 ## Скриншоты отчета Allure
-![img.png](img.png)
-![img_1.png](img_1.png)
+<details>
+  <summary>Рис 1</summary>
+  <img src=img.png>
+</details>
+<details>
+  <summary>Рис 2</summary>
+  <img src=img_1.png>
+</details>
